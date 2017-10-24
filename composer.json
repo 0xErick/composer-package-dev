@@ -1,0 +1,17 @@
+{
+    "name": "saqing/composer-package-dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saqing",
+            "email": "saqing1991@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Saqing\\ComposerPackageDev\\": "src/"
+        }
+    }
+}
